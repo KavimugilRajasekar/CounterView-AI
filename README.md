@@ -370,7 +370,3 @@ Additionally, it uses a locally hosted Ollama Gemma3:1b model for AI processing.
 3. Confirm API keys are properly configured
 4. Test with different browsers if issues persist
 5. Review network tab for failed requests
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
